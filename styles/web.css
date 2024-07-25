@@ -54,7 +54,7 @@
 }
 
 .bck{
-    background-image: url('yoyo3.png');
+    background-image: url('assets/images/yoyo3.png');
     width: 90%;
     height: 100%;
 }
@@ -160,7 +160,7 @@
 }
 .wide{
     margin-top: 70px;
-    background-image: url('wide bck.png');
+    background-color: rgba(23, 16, 90, 0.851);
     display: flex;
     color: white;
     margin-bottom: 50px;
